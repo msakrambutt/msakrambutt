@@ -15,6 +15,12 @@
 
 Hi, everyone.
 
+| Rank | THING-TO-RANK |
+|-----:|---------------|
+|     1|   Javascript  |
+|     2|   Typescript  |
+|     3|   Wordpress   |
+
 - 💬 Ask me about **javascript typescript wordpress**
 
 - 📫 How to reach me **msakrambutt@gmail.com**
