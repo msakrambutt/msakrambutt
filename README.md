@@ -13,7 +13,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/msakrambutt](https://github.com/msakrambutt)
 ## About me
 
-Hi, I'm Shahid.
+Hi, everyone.
 
 - 💬 Ask me about **javascript typescript wordpress**
 
