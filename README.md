@@ -11,6 +11,9 @@
 - 🌱 I’m currently learning **Metaverse & web 3**
 
 - 👨‍💻 All of my projects are available at [https://github.com/msakrambutt](https://github.com/msakrambutt)
+## About me
+
+Hi, I'm Shahid. You might recognize me as GitHub's butt.
 
 - 💬 Ask me about **javascript typescript wordpress**
 
