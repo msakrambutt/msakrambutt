@@ -22,6 +22,7 @@ Hi, everyone.
 |     3|   Wordpress   |
 
 ---
+<!-- TO DO: add more details about me later -->
 - 💬 Ask me about **javascript typescript wordpress**
 
 - 📫 How to reach me **msakrambutt@gmail.com**
